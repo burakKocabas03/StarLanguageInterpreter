@@ -1,0 +1,15 @@
+int a, b, c.
+text message.
+read "Enter the value of a:" a.
+newLine.
+read "Enter the value of b:" b.
+newLine.
+loop i times 5 {
+    c is c + a * b.
+}
+write "Result:" c.
+newLine.
+write "Enter a message:" message.
+newLine.
+write "You entered:" message.
+newLine.

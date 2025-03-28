@@ -1,0 +1,23 @@
+int a.
+int b.
+a is 5.
+b is 10+2.
+write a.
+write b.
+text c is "Burak".
+text d.
+d is c + "Kocabas".
+write d.
+text e.
+e is d - "Burak".
+write e.
+int i.
+i is 1.
+loop 10 times
+{ write i.  
+   i is i+2.
+
+}
+
+int u is 5.
+u is u +1.

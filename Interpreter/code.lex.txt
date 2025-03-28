@@ -1,0 +1,54 @@
+Keyword(int)
+Identifier(a)
+Comma
+Identifier(b)
+Comma
+Identifier(c)
+EndOfLine
+Keyword(text)
+Identifier(message)
+EndOfLine
+Keyword(read)
+String(Enter the value of a:)
+Identifier(a)
+EndOfLine
+Keyword(newLine)
+EndOfLine
+Keyword(read)
+String(Enter the value of b:)
+Identifier(b)
+EndOfLine
+Keyword(newLine)
+EndOfLine
+Keyword(loop)
+Identifier(i)
+Keyword(times)
+IntConst(5)
+LeftCurlyBracket
+Identifier(c)
+Keyword(is)
+Identifier(c)
+Operator(+)
+Identifier(a)
+Operator(*)
+Identifier(b)
+EndOfLine
+RightCurlyBracket
+Keyword(write)
+String(Result:)
+Identifier(c)
+EndOfLine
+Keyword(newLine)
+EndOfLine
+Keyword(write)
+String(Enter a message:)
+Identifier(message)
+EndOfLine
+Keyword(newLine)
+EndOfLine
+Keyword(write)
+String(You entered:)
+Identifier(message)
+EndOfLine
+Keyword(newLine)
+EndOfLine
